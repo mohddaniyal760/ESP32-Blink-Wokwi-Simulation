@@ -6,7 +6,7 @@ A lightweight embedded C project demonstrating a basic LED blinking sequence on 
 
 ## 🚀 Live Demo
 You can interact with and run the live simulation directly in your browser:
-👉 [**Click here to view the Wokwi Simulation**](PASTE_YOUR_WOKWI_SHARE_LINK_HERE)
+👉 [**https://wokwi.com/projects/467893258737809409**]
 
 ## 🛠️ Circuit & Components
 * **Microcontroller:** ESP32
