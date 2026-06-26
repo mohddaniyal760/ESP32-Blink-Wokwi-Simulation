@@ -18,7 +18,7 @@ You can interact with and run the live simulation directly in your browser:
 The project utilizes standard GPIO manipulation functions:
 * `pinMode()` sets GPIO 2 as an output.
 * `digitalWrite()` toggles the state between `HIGH` and `LOW`.
-* `delay()` introduces a 1000ms interval.
+* `delay()` introduces a 200ms interval.
 
 ## 📸 Simulation Preview
-**ESP32-Blink-Wokwi-Simulation/Screen recording 2026-06-26 18.07.24.webm**
+[**https://github.com/mohddaniyal760/ESP32-Blink-Wokwi-Simulation/blob/main/simulate1.gif**]
