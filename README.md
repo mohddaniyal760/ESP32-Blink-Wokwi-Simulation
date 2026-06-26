@@ -21,4 +21,4 @@ The project utilizes standard GPIO manipulation functions:
 * `delay()` introduces a 1000ms interval.
 
 ## 📸 Simulation Preview
-![Wokwi Simulation Screenshot](path/to/your/screenshot.png)
+![Wokwi Simulation Screenshot](Screen recording 2026-06-26 18.07.24.webm)
